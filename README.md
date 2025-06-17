@@ -16,14 +16,7 @@ This is a full-stack CRUD (Create, Read, Update, Delete) application consisting 
 
 ---
 
-## 📁 Project Structure
 
-The project consists of two folders:
-
-├── reactlaravelcrudfrontend   # React frontend
-└── reactlaravelcrud           # Laravel backend API
-
-
-![Demo](./reactlaravelgif.gif)
+![Alt Text](./reactlaravelgif.gif)
 
 
